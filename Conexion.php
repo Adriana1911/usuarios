@@ -7,10 +7,10 @@
         private $Connection;
         
         public function __construct() {
-            $this-> Host = "fdb28.awardspace.net";
-            $this-> User = "3607819_desempenio";
-            $this-> Password = "Adri1018";
-            $this-> Database = "3607819_desempenio";
+            $this-> Host = "localhost";
+            $this-> User = "id15495086_lucero";
+            $this-> Password = "ZOPqKHC2j5X(Pv3a";
+            $this-> Database = "id15495086_desempenio";
         }
 
         public function OpenConnection(){
